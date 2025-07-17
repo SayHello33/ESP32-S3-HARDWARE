@@ -447,7 +447,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "SmartLock"
+    ]
   },
   "meta": {
     "filename": "esp-s3.kicad_pro",
