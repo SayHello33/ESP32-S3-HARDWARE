@@ -11610,6 +11610,526 @@
 		(layer "Edge.Cuts")
 		(uuid "3d3be656-24d9-4abb-860e-deb264e25de3")
 	)
+	(gr_text "GPIO47"
+		(at 184.03 125.75 0)
+		(layer "B.SilkS" knockout)
+		(uuid "0141220a-df6f-4659-a217-15ea1dd0df4d")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO45"
+		(at 184.29 95.72 0)
+		(layer "B.SilkS" knockout)
+		(uuid "05246277-67b3-46ff-8648-dd67b4e210db")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO36"
+		(at 184.25 115.91 0)
+		(layer "B.SilkS" knockout)
+		(uuid "09104441-7aaf-43ec-b2b8-82711cab613f")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO8"
+		(at 160.91 100.98 0)
+		(layer "B.SilkS" knockout)
+		(uuid "10fb1242-0c96-4b7f-b298-e959da4d95e7")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO15\n"
+		(at 161.17 118.86 0)
+		(layer "B.SilkS" knockout)
+		(uuid "27b47937-bde0-4f59-9a59-59f903dd7efb")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO5"
+		(at 161.02 93.58 0)
+		(layer "B.SilkS" knockout)
+		(uuid "29849ad4-8599-4862-8638-0a7d0612d0a2")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO18"
+		(at 160.91 126.45 0)
+		(layer "B.SilkS" knockout)
+		(uuid "35e58156-0fae-4c95-8ea6-ec059ce3a9f9")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 183.8 80.27 0)
+		(layer "B.SilkS" knockout)
+		(uuid "3742ceda-0157-4a0b-8b9a-cfe34cf458ad")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO2"
+		(at 160.91 86.06 0)
+		(layer "B.SilkS" knockout)
+		(uuid "3e6f67e2-cea7-4dc4-bc60-88eec8de29f2")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO35"
+		(at 184.22 118.34 0)
+		(layer "B.SilkS" knockout)
+		(uuid "51a16335-648b-408f-b548-f2f765c23b54")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "VDD33"
+		(at 183.61 88.05 0)
+		(layer "B.SilkS" knockout)
+		(uuid "52e962c1-f1cf-4de5-a242-6bf98bec6f53")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "VDD33"
+		(at 161.02 83.41 0)
+		(layer "B.SilkS" knockout)
+		(uuid "577498d0-bb68-4fbc-99b3-0b58129165df")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO39"
+		(at 184.2 110.94 0)
+		(layer "B.SilkS" knockout)
+		(uuid "5b6844cd-d4e0-41a4-9fe1-3cb7a67190a0")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO41"
+		(at 184.02 103.26 0)
+		(layer "B.SilkS" knockout)
+		(uuid "5c98fcc0-6dc5-4d6d-9d2c-6daf74010fc4")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO10"
+		(at 161.06 106.18 0)
+		(layer "B.SilkS" knockout)
+		(uuid "5d8a7833-52fb-4fdc-a198-2c0cd36efcef")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO37"
+		(at 184.37 113.52 0)
+		(layer "B.SilkS" knockout)
+		(uuid "5e410de5-076e-43aa-9a81-03a3956e0ca7")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO9"
+		(at 160.95 98.63 0)
+		(layer "B.SilkS" knockout)
+		(uuid "6189975f-a86a-41b7-afda-d30b822d1cdf")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO34"
+		(at 184.15 121.1 0)
+		(layer "B.SilkS" knockout)
+		(uuid "6defc92a-0a43-4092-a686-b8cda6ebbf5f")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO1"
+		(at 184.59 92.63 0)
+		(layer "B.SilkS" knockout)
+		(uuid "703608c2-d8cf-48c8-bb50-cb542d511aa0")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO6"
+		(at 161.13 103.75 0)
+		(layer "B.SilkS" knockout)
+		(uuid "76bb3961-4feb-448a-8d36-26dac90c98b8")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO14"
+		(at 160.95 116.28 0)
+		(layer "B.SilkS" knockout)
+		(uuid "78f5d3de-4752-4429-b71b-b9befa8834d7")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO42"
+		(at 184.28 100.74 0)
+		(layer "B.SilkS" knockout)
+		(uuid "7e39f125-5ce5-4d1c-b4ad-25028f632932")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO21\n"
+		(at 161.06 129.03 0)
+		(layer "B.SilkS" knockout)
+		(uuid "7e6c5796-cacf-4684-b5a0-0561c02b2d9d")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "VDD33"
+		(at 161.06 80.75 0)
+		(layer "B.SilkS" knockout)
+		(uuid "894119f8-e83d-4a5e-b1bf-cebf25b496e6")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO7"
+		(at 160.91 96.12 0)
+		(layer "B.SilkS" knockout)
+		(uuid "a6ee5b6c-e8ab-41e4-83de-eae0f81450d7")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO13\n"
+		(at 161.13 113.66 0)
+		(layer "B.SilkS" knockout)
+		(uuid "a94b5ee9-1d1a-46db-a337-2ed0e70e4f2b")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO17\n"
+		(at 161.06 123.64 0)
+		(layer "B.SilkS" knockout)
+		(uuid "aca3f462-8bc0-4ab0-b674-32873047fe94")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO4"
+		(at 161.09 91.04 0)
+		(layer "B.SilkS" knockout)
+		(uuid "b4629eb6-3549-420c-b3af-e1bf1c04d2ee")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO48"
+		(at 184.12 128.76 0)
+		(layer "B.SilkS" knockout)
+		(uuid "b685e43b-9616-43cf-b1b7-c474172e10ec")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "VDD33"
+		(at 184.21 85.58 0)
+		(layer "B.SilkS" knockout)
+		(uuid "b6dc5333-e3d2-4462-aa39-1188036ad81a")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO38"
+		(at 184.12 108.5 0)
+		(layer "B.SilkS" knockout)
+		(uuid "b8c72350-872f-4122-b406-a7c030a3d3a0")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO11"
+		(at 161.09 108.57 0)
+		(layer "B.SilkS" knockout)
+		(uuid "b97ea746-8e5c-4072-bd91-fd8e3433e3d3")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO40"
+		(at 184.1 105.76 0)
+		(layer "B.SilkS" knockout)
+		(uuid "bd9ce7da-b829-439c-af54-2615d3bb65c1")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO33"
+		(at 184.27 123.39 0)
+		(layer "B.SilkS" knockout)
+		(uuid "cbb05733-70d4-46af-b9d3-8ce09d7aadbe")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 183.69 83.04 0)
+		(layer "B.SilkS" knockout)
+		(uuid "cc97b53d-46ab-44b6-a8a1-87d015c0ad79")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO16"
+		(at 161.02 121.32 0)
+		(layer "B.SilkS" knockout)
+		(uuid "cebb9ffa-79e9-4f05-9f87-12af04ae4514")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 183.61 90.59 0)
+		(layer "B.SilkS" knockout)
+		(uuid "d95fbe58-9856-48ca-97ca-76b33c2c3b06")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO46"
+		(at 184.25 98 0)
+		(layer "B.SilkS" knockout)
+		(uuid "dce646d7-961c-498d-b04e-f02d28feab14")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO12"
+		(at 160.98 111.38 0)
+		(layer "B.SilkS" knockout)
+		(uuid "f57614df-7889-4eb6-ab87-b3d9eafa9a44")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GPIO3"
+		(at 160.91 88.42 0)
+		(layer "B.SilkS" knockout)
+		(uuid "ff363056-2b92-4785-975f-020432104e59")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 178.29 91.44)
 		(end 178.29 90.32)
@@ -11771,6 +12291,14 @@
 		(uuid "0d2f29bb-6d7e-4f2e-89dc-b5ff8db4341a")
 	)
 	(segment
+		(start 181.66 92.5)
+		(end 181.3 92.14)
+		(width 0.15)
+		(layer "F.Cu")
+		(net 4)
+		(uuid "1a4a851e-3f87-4292-9482-39c67c896a42")
+	)
+	(segment
 		(start 176.64 84.74)
 		(end 176.24 85.14)
 		(width 0.5)
@@ -11793,6 +12321,14 @@
 		(layer "F.Cu")
 		(net 4)
 		(uuid "292e63a7-abbd-486e-8f16-028750591c48")
+	)
+	(segment
+		(start 181.79 93.24)
+		(end 181.77 93.26)
+		(width 0.15)
+		(layer "F.Cu")
+		(net 4)
+		(uuid "2c9764c1-0a8d-479a-852b-150cfa399a17")
 	)
 	(segment
 		(start 177.76 92.15)
@@ -11867,14 +12403,6 @@
 		(uuid "675e3856-12db-45ad-9fa9-374ce73f97cc")
 	)
 	(segment
-		(start 181.79 92.63)
-		(end 181.3 92.14)
-		(width 0.15)
-		(layer "F.Cu")
-		(net 4)
-		(uuid "6e5ff9fc-6a52-4c73-b86a-6a0b836239b2")
-	)
-	(segment
 		(start 181.77 93.26)
 		(end 181.77 94.09)
 		(width 0.15)
@@ -11905,14 +12433,6 @@
 		(layer "F.Cu")
 		(net 4)
 		(uuid "82c62308-a9ec-4fea-b492-536f117918e9")
-	)
-	(segment
-		(start 181.79 92.66)
-		(end 181.79 92.63)
-		(width 0.15)
-		(layer "F.Cu")
-		(net 4)
-		(uuid "865a8214-2a99-4555-88a0-8b0aa3049e1c")
 	)
 	(segment
 		(start 179.51 92.19)
@@ -12003,14 +12523,6 @@
 		(uuid "a7e8618b-aacb-44b2-9616-c9bef3f1d2b4")
 	)
 	(segment
-		(start 181.79 92.66)
-		(end 181.79 93.24)
-		(width 0.15)
-		(layer "F.Cu")
-		(net 4)
-		(uuid "a9e00925-7162-4dac-ae0b-833af863c355")
-	)
-	(segment
 		(start 178.32 92.16)
 		(end 178.94 92.16)
 		(width 0.15)
@@ -12033,6 +12545,14 @@
 		(layer "F.Cu")
 		(net 4)
 		(uuid "c072f30c-8f3a-44e4-b66c-2d08c6ea85cd")
+	)
+	(segment
+		(start 181.66 92.73)
+		(end 181.66 92.5)
+		(width 0.15)
+		(layer "F.Cu")
+		(net 4)
+		(uuid "c09a029a-9ce8-4fb8-953d-b47db1a4729a")
 	)
 	(segment
 		(start 176.64 84.265)
@@ -12099,12 +12619,20 @@
 		(uuid "dfd43f77-90dc-46f4-bc75-98b4f41b90e0")
 	)
 	(segment
-		(start 181.79 93.24)
-		(end 181.77 93.26)
+		(start 181.66 92.73)
+		(end 181.79 92.86)
 		(width 0.15)
 		(layer "F.Cu")
 		(net 4)
-		(uuid "e958ab11-4133-4ae1-8796-557565585604")
+		(uuid "e37c415b-2162-48c4-b055-21bae9d5b2e5")
+	)
+	(segment
+		(start 181.79 92.86)
+		(end 181.79 93.24)
+		(width 0.15)
+		(layer "F.Cu")
+		(net 4)
+		(uuid "f3cec9a0-6f90-4621-9375-dfbd3cf13034")
 	)
 	(segment
 		(start 180.14 92.14)
@@ -12951,7 +13479,7 @@
 		(uuid "c711ad20-9381-4620-905f-1e32551ad7e6")
 	)
 	(via
-		(at 181.79 92.66)
+		(at 181.66 92.73)
 		(size 0.45)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -16413,36 +16941,28 @@
 		(uuid "eccdd7fb-903a-4c48-ba3e-9e6215b63b97")
 	)
 	(segment
-		(start 167.876303 91.446)
-		(end 168.560304 90.762)
-		(width 0.15)
-		(layer "F.Cu")
-		(net 33)
-		(uuid "3ed5854c-e1a7-43e9-b087-e8a48ca937a2")
-	)
-	(segment
-		(start 160.714 91.446)
-		(end 167.876303 91.446)
-		(width 0.15)
-		(layer "F.Cu")
-		(net 33)
-		(uuid "3ee746cb-7558-4477-b706-559e86bf9d5f")
-	)
-	(segment
 		(start 168.560304 90.762)
-		(end 170.062 90.762)
+		(end 170.112 90.762)
 		(width 0.15)
 		(layer "F.Cu")
 		(net 33)
-		(uuid "58b563cf-cc11-4297-83e7-ec77e53bd470")
+		(uuid "1966a0cd-f08f-469f-8ab4-0f4061b63036")
 	)
 	(segment
-		(start 170.062 90.762)
-		(end 170.33 91.03)
+		(start 170.112 90.762)
+		(end 170.33 90.98)
 		(width 0.15)
 		(layer "F.Cu")
 		(net 33)
-		(uuid "76df47af-49c6-424e-97a9-4de060d64c8e")
+		(uuid "6ccc37a7-13d4-409a-8ff4-0c31f21b4854")
+	)
+	(segment
+		(start 170.33 90.98)
+		(end 170.33 91.43)
+		(width 0.15)
+		(layer "F.Cu")
+		(net 33)
+		(uuid "8af980e3-e1af-46e4-8c36-a3aeadb8276b")
 	)
 	(segment
 		(start 156.57 95.59)
@@ -16450,15 +16970,23 @@
 		(width 0.15)
 		(layer "F.Cu")
 		(net 33)
-		(uuid "86fa0247-37ea-49fe-9b59-eddcdab6cfc9")
+		(uuid "9690a5e3-6c12-4ef4-8fb2-59de03e03f01")
 	)
 	(segment
-		(start 170.33 91.03)
-		(end 170.33 91.43)
+		(start 167.876303 91.446)
+		(end 168.560304 90.762)
 		(width 0.15)
 		(layer "F.Cu")
 		(net 33)
-		(uuid "eb546174-51e2-498e-a1a2-4f3903453618")
+		(uuid "da2086d0-6d7d-4b9a-83fa-d02d766dc6f5")
+	)
+	(segment
+		(start 160.714 91.446)
+		(end 167.876303 91.446)
+		(width 0.15)
+		(layer "F.Cu")
+		(net 33)
+		(uuid "e2706782-fd8d-413e-95d0-99812072e726")
 	)
 	(segment
 		(start 169.945 98.344999)
